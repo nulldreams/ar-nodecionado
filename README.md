@@ -1,5 +1,7 @@
-# ar-nodecionado
-Aplicativo em node que consome um painel de gerenciamento de aparelhos de ar condicionado e gera uma API. (Painel Hitachi cs-net web)
+# ar-nodecionado ❄
+Aplicativo em NodeJS que consome um painel de gerenciamento de aparelhos de ar condicionado e gera uma API. 
+
+API desenvolvida para consumir o [Painel Hitachi cs-net web](http://www.jci-hitachi.com.br/produto/cs-net-web)
 
 - List (GET)
 ```json
